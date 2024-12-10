@@ -1,1 +1,3 @@
-运行前请确保已配置pytorch框架
+运行前请确保
+环境中已配置pytorch框架
+环境中安装了matplotlib
